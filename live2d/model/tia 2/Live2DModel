@@ -1,0 +1,684 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 1999539125073767737
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = 463503608735236183
+	string m_Name = ""
+	PPtr<$TextAsset> mModelSettingAsset
+		int m_FileID = 0
+		SInt64 m_PathID = 49562509174240068
+	PPtr<$TextAsset> mModelAsset
+		int m_FileID = 0
+		SInt64 m_PathID = -3163869866282783694
+	vector mArrayTexture
+		Array Array
+		int size = 3
+			[0]
+			PPtr<$Texture2D> data
+				int m_FileID = 1
+				SInt64 m_PathID = -8569970337331674880
+			[1]
+			PPtr<$Texture2D> data
+				int m_FileID = 1
+				SInt64 m_PathID = 8667901088809978218
+			[2]
+			PPtr<$Texture2D> data
+				int m_FileID = 1
+				SInt64 m_PathID = 7416639609579405126
+	vector mArrayExpressionAsset
+		Array Array
+		int size = 24
+			[0]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -1162476518202038505
+			[1]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -6879369701576315773
+			[2]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -6539598543339622709
+			[3]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 2903143002512902246
+			[4]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 8098193869970808547
+			[5]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 7174617949390053351
+			[6]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 7100583687425037239
+			[7]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 6802496469993895270
+			[8]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -8004371125499594692
+			[9]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = 7014624731569250075
+			[10]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -7297981034124932033
+			[11]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -3505338432763755116
+			[12]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -4718059961227653438
+			[13]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -5744169183394318391
+			[14]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -6906263164385172678
+			[15]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = 2250365272377199822
+			[16]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -7101585775673020089
+			[17]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -1252260722416476078
+			[18]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = 4238951436416169520
+			[19]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -5907981936450739716
+			[20]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -3372600340904139010
+			[21]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = 8180236900110607599
+			[22]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -2296010087742565427
+			[23]
+			PPtr<$TextAsset> data
+				int m_FileID = 2
+				SInt64 m_PathID = -3806640095731619724
+	vector mArrayMotionAsset
+		Array Array
+		int size = 121
+			[0]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -6505520914918078579
+			[1]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -5378256961790538894
+			[2]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -5835971228279819098
+			[3]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 3348233044555672783
+			[4]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -423103410605024250
+			[5]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -1272189045326547841
+			[6]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 7871024001826924051
+			[7]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -563330239235170328
+			[8]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 5584654263188986527
+			[9]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = -4389472613790499484
+			[10]
+			PPtr<$TextAsset> data
+				int m_FileID = 0
+				SInt64 m_PathID = 100485672001786367
+			[11]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 6613229786731211125
+			[12]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -3074252545317038706
+			[13]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 8652379646994469907
+			[14]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6217389674673726808
+			[15]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 138407690799646666
+			[16]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8410424146531155709
+			[17]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 5333161052238567407
+			[18]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7953707205052550595
+			[19]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 5959833251644978651
+			[20]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -5280830319383522174
+			[21]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8703491221501518401
+			[22]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2900959499691835806
+			[23]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4383181272182789083
+			[24]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -4627525541367498148
+			[25]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 3065832001006189598
+			[26]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -251828883125797596
+			[27]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2344754277110330916
+			[28]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -354559972561449090
+			[29]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -4200002138315711527
+			[30]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2886214106243200417
+			[31]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 7890055832825189285
+			[32]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4625927805662979769
+			[33]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -1227133771229134700
+			[34]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 20328201058591464
+			[35]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1807244484939268877
+			[36]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2899594722900942363
+			[37]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 6356742568772862202
+			[38]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2920830889288574385
+			[39]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4612103978895333839
+			[40]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -1434775467087428246
+			[41]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2009521414921179299
+			[42]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 3154754545772820442
+			[43]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 5621907637175266300
+			[44]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6675098010308854786
+			[45]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -245425612420835910
+			[46]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7343659059016523663
+			[47]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2376688274684469386
+			[48]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2383895127116305064
+			[49]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8739972687480344293
+			[50]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7576449977397891379
+			[51]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2136496985601893870
+			[52]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -4899666569677716673
+			[53]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -4188389988814061556
+			[54]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 943924695857806345
+			[55]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 9136036152006455909
+			[56]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -3444106836677923073
+			[57]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2902802833038386325
+			[58]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 6098500010435256388
+			[59]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8609067555969135230
+			[60]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -5390053443591536925
+			[61]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2923394426516888269
+			[62]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -9072265247600478042
+			[63]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 5956555340547939081
+			[64]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -703391155130242024
+			[65]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6739572519119920467
+			[66]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 5069929854430203664
+			[67]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1519370800393521761
+			[68]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6741173922068750875
+			[69]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1807089413490098037
+			[70]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 7501899096845633183
+			[71]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -3054221307562335742
+			[72]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7633805299451484199
+			[73]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6604737675439212761
+			[74]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2999540708583509598
+			[75]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6155153661319766186
+			[76]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 468942868566799220
+			[77]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 3092971480170644418
+			[78]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1692590363683669534
+			[79]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 7762831211653896865
+			[80]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8927282302455290795
+			[81]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1238013760675689050
+			[82]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7437881444255321352
+			[83]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1388475516320113102
+			[84]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8676006230995827420
+			[85]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -5748207059326635150
+			[86]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -4074053625691503514
+			[87]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 7826130484851690571
+			[88]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7504765295667086967
+			[89]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2188127438066731365
+			[90]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 6219196145362087775
+			[91]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4489715143059653528
+			[92]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -572797846868308823
+			[93]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -5961672483989610442
+			[94]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 3963714386997192956
+			[95]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 8909016459715674282
+			[96]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -2686184747807111047
+			[97]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -3831158911013519131
+			[98]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -7663053532185167719
+			[99]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2206587988774054359
+			[100]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 3048613902348252904
+			[101]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4485311927098011006
+			[102]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -9053586270488240495
+			[103]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 7367120589799911997
+			[104]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 7568043661067627580
+			[105]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 485957206155931533
+			[106]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -4343807170921460467
+			[107]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -6598289449154905437
+			[108]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 8129865491717816443
+			[109]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -1135657217266418326
+			[110]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8637602992290556301
+			[111]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4609616286577682324
+			[112]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 596953909752229778
+			[113]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -3498270873636907406
+			[114]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 2332924543180910161
+			[115]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1960632081240617919
+			[116]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = -8266206477310463308
+			[117]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 1367020885715065572
+			[118]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4535384027044986295
+			[119]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 622496424162265393
+			[120]
+			PPtr<$TextAsset> data
+				int m_FileID = 3
+				SInt64 m_PathID = 4777464498417130467
+	PPtr<$TextAsset> mPhysicsAsset
+		int m_FileID = 0
+		SInt64 m_PathID = 3670373716960884207
+	PPtr<$TextAsset> mPoseAsset
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	vector mArrayAudioClip
+		Array Array
+		int size = 0
+	vector mArrayHideParts
+		Array Array
+		int size = 26
+			[0]
+			string data = "PARTS_01_HAND_001"
+			[1]
+			string data = "PARTS_01_HAND_002"
+			[2]
+			string data = "PARTS_01_ARM_001"
+			[3]
+			string data = "PARTS_01_FACE_001"
+			[4]
+			string data = "PARTS_01_EYE_002"
+			[5]
+			string data = "PARTS_01_EYE_001"
+			[6]
+			string data = "PARTS_01_EYE_BALL_001"
+			[7]
+			string data = "PARTS_01_BROW_001"
+			[8]
+			string data = "PARTS_01_BROW_002"
+			[9]
+			string data = "PARTS_01_MOUTH_001"
+			[10]
+			string data = "PARTS_01_NOSE_001"
+			[11]
+			string data = "PARTS_01_EAR_001"
+			[12]
+			string data = "PARTS_01_HAIR_FRONT_001"
+			[13]
+			string data = "PARTS_01_HAIR_SIDE_001"
+			[14]
+			string data = "PARTS_01_HAIR_BACK_001"
+			[15]
+			string data = "PARTS_01_NECK"
+			[16]
+			string data = "PARTS_01_BODY"
+			[17]
+			string data = "PARTS_01_ACCESSORY"
+			[18]
+			string data = "PSD"
+			[19]
+			string data = "ROUGH"
+			[20]
+			string data = "PARTS_01_BACKGROUND"
+			[21]
+			string data = "PARTS_01_SKETCH"
+			[22]
+			string data = "PSD1"
+			[23]
+			string data = "PSD2"
+			[24]
+			string data = "PSD3"
+			[25]
+			string data = "PSD4"
+	string mGUID = "4b54228833cd3454a81c1a7f6621430c"
+	vector mListRandomLoopMotion
+		Array Array
+		int size = 0
