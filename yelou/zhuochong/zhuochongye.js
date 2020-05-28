@@ -1,5 +1,5 @@
 if($('#shimeji').length<=0){
-	$("body").prepend("<div style='z-index:100000;top:0px;left:0px;position: fixed;width:100%;height:100%;-webkit-pointer-events: none;-moz-pointer-events: none;-ms-pointer-events: none;-o-pointer-events: none;pointer-events: none;'><div id='shimeji' draggable='true' style='pointer-events:auto;position: absolute;cursor:move ;top:100px;left:90px;width:64px;height:64px;background-image:url(https://www.yeallye.com/shimeji/img/shime1.png);background-size:100%;z-index:99999999'></div></div><style>div.col-md-2.col-lg-2.col-xs-2.col-sm-2{z-index:-1 !important;}</style>");
+	$("body").prepend("<div style='z-index:100000;top:0px;left:0px;position: fixed;width:100%;height:100%;-webkit-pointer-events: none;-moz-pointer-events: none;-ms-pointer-events: none;-o-pointer-events: none;pointer-events: none;'><div id='shimeji' draggable='true' style='pointer-events:auto;position: absolute;cursor:move ;top:100px;left:90px;width:64px;height:64px;background-image:url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png);background-size:100%;z-index:99999999'></div></div><style>div.col-md-2.col-lg-2.col-xs-2.col-sm-2{z-index:-1 !important;}</style>");
 // <
 // <style>#shimeji{z-index:99999999 !important;position:relative !important}</style>
 var dh = null;
@@ -12,63 +12,63 @@ function changeshimeji(a,rnum="0") {
     //做个随机数玩
     if (rnum == 1) {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime2.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime2.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime3.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime3.png)"
         });
       }, 300);
     } else {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime20.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime20.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime21.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime21.png)"
         });
       }, 300);
     }
   } else if (a == "2") {
     $('#shimeji').css({
-      "background-image": "url(https://www.yeallye.com/shimeji/img/shime12.png)"
+      "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime12.png)"
     });
     dhtimer = setTimeout(function() {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime13.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime13.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime14.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime14.png)"
         });
       }, 300);
     }, 300);
   } else if (a == "3") {
     $('#shimeji').css({
-      "background-image": "url(https://www.yeallye.com/shimeji/img/shime23.png)"
+      "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime23.png)"
     });
     dhtimer = setTimeout(function() {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime24.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime24.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime25.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime25.png)"
         });
       }, 300);
     }, 300);
   } else if (a == "4") {
     //好像是搬什么东西
     $('#shimeji').css({
-      "background-image": "url(https://www.yeallye.com/shimeji/img/shime39.png)"
+      "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime39.png)"
     });
     dhtimer = setTimeout(function() {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime40.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime40.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime41.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime41.png)"
         });
       }, 300);
     }, 300);
@@ -76,15 +76,15 @@ function changeshimeji(a,rnum="0") {
     //想念电脑，需要interview调到3000
     dhtimer = setTimeout(function() {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime27.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime27.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime28.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime28.png)"
         });
         dhtimer = setTimeout(function() {
           $('#shimeji').css({
-            "background-image": "url(https://www.yeallye.com/shimeji/img/shime29.png)"
+            "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime29.png)"
           });
         }, 300);
       }, 600);
@@ -93,11 +93,11 @@ function changeshimeji(a,rnum="0") {
     //舞蹈
     dhtimer = setTimeout(function() {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime5.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime5.png)"
       });
       dhtimer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime6.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime6.png)"
         });
       }, 300);
     }, 200);
@@ -128,7 +128,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       }
@@ -152,7 +152,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       });
@@ -167,7 +167,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       });
@@ -181,7 +181,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime26.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime26.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       });
@@ -196,7 +196,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime26.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime26.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       });
@@ -213,7 +213,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       });
@@ -230,7 +230,7 @@ function smjmove() {
         clearTimeout(dhtimer);
         clearInterval(dh);
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       });
@@ -247,7 +247,7 @@ function smjmove() {
           clearTimeout(dhtimer);
           clearInterval(dh);
           $('#shimeji').css({
-            "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+            "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
           });
           movetimer = setTimeout("smjmove()", 5000)
         });
@@ -262,7 +262,7 @@ function smjmove() {
           clearTimeout(dhtimer);
           clearInterval(dh);
           $('#shimeji').css({
-            "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+            "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
           });
           movetimer = setTimeout("smjmove()", 5000)
         });
@@ -282,7 +282,7 @@ function smjmove() {
           clearTimeout(dhtimer);
           clearInterval(dh);
           $('#shimeji').css({
-            "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+            "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
           });
           movetimer = setTimeout("smjmove()", 5000)
         });
@@ -295,7 +295,7 @@ function smjmove() {
           clearTimeout(dhtimer);
           clearInterval(dh);
           $('#shimeji').css({
-            "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+            "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
           });
           movetimer = setTimeout("smjmove()", 5000)
         });
@@ -310,7 +310,7 @@ function smjmove() {
 //降落
 function jiangluo() {
   $('#shimeji').css({
-    "background-image": "url(https://www.yeallye.com/shimeji/img/shime4.png)"
+    "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime4.png)"
   });
   var nowY = $('#shimeji').position().top;
   var faWidth = $('#shimeji').parent().height() - 64;
@@ -319,15 +319,15 @@ function jiangluo() {
     top: "+=" + yyy
   }, yyy * 20, function() {
     $('#shimeji').css({
-      "background-image": "url(https://www.yeallye.com/shimeji/img/shime18.png)"
+      "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime18.png)"
     });
     timer = setTimeout(function() {
       $('#shimeji').css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime19.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime19.png)"
       });
       timer = setTimeout(function() {
         $('#shimeji').css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         movetimer = setTimeout("smjmove()", 5000)
       }, 1000)
@@ -457,12 +457,12 @@ $.fn.extend({
       var rnum = Math.round(Math.random());
       if(rnum==0){
       $this.css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
       });
       mDown = false;
       jiangluo();}else{
         $this.css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         mDown = false;
         movetimer = setTimeout("smjmove()", 5000)
@@ -472,12 +472,12 @@ $.fn.extend({
       var rnum = Math.round(Math.random());
       if(rnum==0){
       $this.css({
-        "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+        "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
       });
       mDown = false;
       jiangluo();}else{
         $this.css({
-          "background-image": "url(https://www.yeallye.com/shimeji/img/shime1.png)"
+          "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime1.png)"
         });
         mDown = false;
         movetimer = setTimeout("smjmove()", 5000)
@@ -541,11 +541,11 @@ $.fn.extend({
           });
           if (selX > 0) {
             $this.css({
-              "background-image": "url(https://www.yeallye.com/shimeji/img/shime9.png)"
+              "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime9.png)"
             });
           } else {
             $this.css({
-              "background-image": "url(https://www.yeallye.com/shimeji/img/shime10.png)"
+              "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime10.png)"
             });
           }
         } else {
@@ -642,11 +642,11 @@ $.fn.extend({
           });
           if (selX > 0) {
             $this.css({
-              "background-image": "url(https://www.yeallye.com/shimeji/img/shime9.png)"
+              "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime9.png)"
             });
           } else {
             $this.css({
-              "background-image": "url(https://www.yeallye.com/shimeji/img/shime10.png)"
+              "background-image": "url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/shimeji/img/shime10.png)"
             });
           }
         } else {
