@@ -6,7 +6,6 @@ var all_ye_href_one = [
     "http://bbs.jjwxc.com/showmsg.php?board=3&keyword=%D2%B6&id=1754049",
     "http://bbs.jjwxc.com/showmsg.php?board=3&boardpagemsg=1&id=1731020",
     "http://bbs.jjwxc.com/showmsg.php?board=3&keyword=%D6%B1%BD%E2%BD%E2&id=1730911",
-    "http://bbs.jjwxc.com/showmsg.php?board=3&keyword=%C4%D0%D6%F7%BE%CD%D5%E2%C3%B4&id=1698536",
     "http://bbs.jjwxc.com/showmsg.php?board=3&keyword=%C8%AB%C3%F7%D0%C7%C8%FC%D2%B6&id=1662184",
     "http://bbs.jjwxc.com/showmsg.php?board=3&keyword=%D2%B6%D0%DE&id=1729027",
     "http://bbs.jjwxc.com/showmsg.php?board=3&keyword=%BB%EE%C6%C3%BF%C9%B0%AE%B4%F3%CC%EC%CA%B9&id=1658832",
@@ -28,7 +27,6 @@ var all_ye_href_one = [
     "http://bbs.jjwxc.net/showmsg.php?board=3&boardpagemsg=1&id=1775246",
     "http://bbs.jjwxc.net/showmsg.php?board=3&id=1779877",
     "http://bbs.jjwxc.net/showmsg.php?board=3&boardpagemsg=1&id=1783660",
-    "http://bbs.jjwxc.net/showmsg.php?board=3&id=1788014",
     "http://bbs.jjwxc.net/showmsg.php?board=3&id=1863804",
     "http://bbs.jjwxc.net/showmsg.php?board=3&boardpagemsg=1&id=1908547",
     "http://bbs.jjwxc.net/showmsg.php?board=3&boardpagemsg=1&id=1924260"
@@ -43,7 +41,10 @@ var all_ye_href_two = [
     "https://arcticcircle.lofter.com/post/22ff27_1192d11"
 ];
 var all_ye_href_three = [
-    "https://yexiu.love"
+    "https://b23.tv/BV1Zs411a7LR",
+    "https://b23.tv/BV1Cx41177fM",
+    "https://b23.tv/BV1qs411i7Bs",
+    "http://www.missevan.com/mdrama/drama/22523?pay_type=2"
 ];
 
 function YeRandomHref1() {
