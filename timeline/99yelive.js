@@ -74,7 +74,6 @@ var tiemo=['<a href=\"https://yexiu97529.lofter.com/post/26619c_ee6e7380\" targe
     '<a href=\"https://taomu1129.lofter.com/post/1d131bac_12cd45ae7\" target=\"_blank\">原著片段中的可爱叶修</a>',
     '<a href=\"https://arcticcircle.lofter.com/post/22ff27_1192d11\" target=\"_blank\">整理：叶修的数个温暖人心的细节</a>',
 ]
-]
 $("#begin").click(function(){
 	showMessage(tiemo,50000)
 })
