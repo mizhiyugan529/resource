@@ -65,14 +65,14 @@ if(hideornot=="hide"){
 	$("#yebirthday").css("visibility","hidden");
 	$("#yecontrol").html('<img style="width:20px;height:20px;" src="https://i.loli.net/2019/11/09/5NCc26nSrlFP8AE.png"><br><font color=#c3c3c3>点我展开</font>');
 }
-var tiemo=['链接：<a href=\"https://yexiu97529.lofter.com/post/26619c_ee6e7380\" target=\"_blank\"><font color="#efe0e0c2">《全职高手》官方文案中的叶修</font>></a>',
-    '链接：<a href=\"https://yexiu97529.lofter.com/post/26619c_fe18ae7\" target=\"_blank\"><font color="#efe0e0c2">蝴蝶蓝在《全职高手》正文之外提到叶修的部分</font></a>',
-    '链接：<a href=\"https://qianqiuwuyan.lofter.com/post/1ea40084_1101f3cf\" target=\"_blank\"><font color="#efe0e0c2">十五岁的夏天</font></a>',
-    '链接：<a href=\"https://qianqiuwuyan.lofter.com/post/1ea40084_11024514\" target=\"_blank\"><font color="#efe0e0c2">最初的朋友，一生的对手</font></a>',
-    '链接：<a href=\"https://yejiusakura.lofter.com/post/1d8fdb03_bfd9fd6\" target=\"_blank\"><font color="#efe0e0c2">神话的开始</font></a>',
-    '链接：<a href=\"https://yexiu.love\" target=\"_blank\"><font color="#efe0e0c2">时间线</font></a>',
-    '链接：<a href=\"https://taomu1129.lofter.com/post/1d131bac_12cd45ae7\" target=\"_blank\"><font color="#efe0e0c2">原著片段中的可爱叶修</font></a>',
-    '链接：<a href=\"https://arcticcircle.lofter.com/post/22ff27_1192d11\" target=\"_blank\"><font color="#efe0e0c2">整理：叶修的数个温暖人心的细节</font></a>',
+var tiemo=['链接：<a href=\"https://yexiu97529.lofter.com/post/26619c_ee6e7380\" target=\"_blank\"><font color="#c3c3c3">《全职高手》官方文案中的叶修</font>></a>',
+    '链接：<a href=\"https://yexiu97529.lofter.com/post/26619c_fe18ae7\" target=\"_blank\"><font color="#c3c3c3">蝴蝶蓝在《全职高手》正文之外提到叶修的部分</font></a>',
+    '链接：<a href=\"https://qianqiuwuyan.lofter.com/post/1ea40084_1101f3cf\" target=\"_blank\"><font color="#c3c3c3">十五岁的夏天</font></a>',
+    '链接：<a href=\"https://qianqiuwuyan.lofter.com/post/1ea40084_11024514\" target=\"_blank\"><font color="#c3c3c3">最初的朋友，一生的对手</font></a>',
+    '链接：<a href=\"https://yejiusakura.lofter.com/post/1d8fdb03_bfd9fd6\" target=\"_blank\"><font color="#c3c3c3">神话的开始</font></a>',
+    '链接：<a href=\"https://yexiu.love\" target=\"_blank\"><font color="#c3c3c3">时间线</font></a>',
+    '链接：<a href=\"https://taomu1129.lofter.com/post/1d131bac_12cd45ae7\" target=\"_blank\"><font color="#c3c3c3">原著片段中的可爱叶修</font></a>',
+    '链接：<a href=\"https://arcticcircle.lofter.com/post/22ff27_1192d11\" target=\"_blank\"><font color="#c3c3c3">整理：叶修的数个温暖人心的细节</font></a>',
 ]
 $("#begin").click(function(){
 	showMessage(tiemo,50000)
