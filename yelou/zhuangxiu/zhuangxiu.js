@@ -38,7 +38,7 @@
                                  .[[OO/[`                                                 
                                     @@^ demo：https: //www.nmmnm.co/showmsg/forumid/5/id/107796?page=1*/
 $(document).ready(function () {
-	$("body").append("<style>.group_0 {color: transparent !important;background: url(https://i.loli.net/2019/10/21/elorKWgY97UkxNv.png) no-repeat !important;}.title{background:transparent;text-align:center}.alert-danger {border-color: transparent; background: transparent;}.bg-info {background-color: transparent;}.am-topbar {background: transparent;}.am-topbar-btn {background-color: transparent;border-color: transparent;}.am-topbar-btn:hover {background-color: transparent;border-color: transparent;}.bg-info {background-color: transparent;}</style>")
+	$("body").append("<style>.group_0 {color: transparent !important;background: url(https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/fengye.png) no-repeat !important;}.title{background:transparent;text-align:center}.alert-danger {border-color: transparent; background: transparent;}.bg-info {background-color: transparent;}.am-topbar {background: transparent;}.am-topbar-btn {background-color: transparent;border-color: transparent;}.am-topbar-btn:hover {background-color: transparent;border-color: transparent;}.bg-info {background-color: transparent;}</style>")
     decorateYeForFans();
     var select = document.getElementById("duqian");
     var add = document.createElement("p");
