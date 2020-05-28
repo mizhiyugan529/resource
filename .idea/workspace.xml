@@ -35,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="89" />
+          <entry key="js" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="89" />
+          <entry key="JavaScript" value="117" />
         </counts>
       </usages-collector>
     </session>
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/timeline/99yelive.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="74" column="30" lean-forward="true" selection-end-line="92" selection-end-column="2" />
+            <state relative-caret-position="74">
+              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
@@ -192,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590638115556" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590641767975" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -231,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590629628409</updated>
-      <workItem from="1590629631894" duration="5773000" />
+      <workItem from="1590629631894" duration="6491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5773000" />
+    <option name="totallyTimeSpent" value="6491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="288" y="45" width="1105" height="806" extended-state="0" />
@@ -263,7 +263,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" visible="true" weight="0.32925683" />
+      <window_info anchor="right" id="Flutter Outline" weight="0.32925683" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
@@ -453,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/timeline/99yelive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="74" column="30" lean-forward="true" selection-end-line="92" selection-end-column="2" />
+        <state relative-caret-position="74">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
