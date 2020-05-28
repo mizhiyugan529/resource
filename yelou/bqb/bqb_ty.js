@@ -24,7 +24,7 @@ function loadExternalResource(url, type) {
 var judge12 = window.location.href;
 if(judge12.indexOf("bilibilipy")!=-1&&judge12.indexOf("https")!=-1){
 
-loadExternalResource("https://www.yeallye.com/yelou/bqb/bqb2.js", "js");
+loadExternalResource("https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/bqb/bqb2.js", "js");
 }else{
-loadExternalResource("https://www.yeallye.com/yelou/bqb/bqb.js", "js");
+loadExternalResource("https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/bqb/bqb.js", "js");
 }
