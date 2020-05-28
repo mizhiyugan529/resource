@@ -59,9 +59,9 @@ if(judge12.indexOf("bilibilipy")!=-1&&judge12.indexOf("https")!=-1){
     ]).then(() => {
         var cloth=localStorage.yecloth;
     if (cloth=="2"){
-        loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/model/tia/model2.json");
+        loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/live2d/model/tia/model2.json");
     }else{
-        loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/model/tia/model.json");}
+        loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/live2d/model/tia/model.json");}
 });
     loadExternalResource("https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/flavr/css/animate.css", "css"),
         loadExternalResource("https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/flavr/css/flavr.css", "css"),
