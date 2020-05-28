@@ -1,0 +1,69 @@
+{
+    "mouseover": [
+        {
+            "selector": ".title a",
+            "text": [" {text} "]
+        },
+        {
+            "selector": ".searchbox",
+            "text": ["在找什么，需要帮忙吗？"]
+        },
+        {
+            "selector": "#shimeji",
+            "text": ["小心些，别碰伤他"]
+        }
+    ],
+    "click": [
+        {
+            "selector": "#live2d",
+            "text": ["别闹", "别闹...好痒！"]
+        },
+        {
+            "selector": "#shimeji",
+            "text": ["好小......", "别摔到他"]
+        }
+    ],
+    "seasons": [{
+		"date": "01/01",
+		"text": "<span>元旦</span>了,新年快乐！今年是{year}年"
+	}, {
+		"date": "01/02",
+		"text": "<span>元旦过去了1天</span>,今年是{year}年"
+	},{
+		"date": "02/14",
+		"text": "又是一年<font color=red>情人节</font>，希望一切可以如你所愿"
+	}, {
+		"date": "03/08",
+		"text": "今天是<span>国际妇女节</span>"
+	}, {
+		"date": "03/12",
+		"text": "今天是<span>植树节</span>，要保护环境！"
+	}, {
+		"date": "04/01",
+		"text": "告诉你一个秘密，<span>今天是愚人节</span>"
+	}, {
+		"date": "05/01",
+		"text": "今天是<span>五一劳动节</span>，计划好假期去哪里了吗"
+	},{
+		"date": "05/29",
+		"text": "生日快乐？谢谢你的祝福"
+	}, {
+		"date": "06/01",
+		"text": "<span>儿童节</span>了"
+	}, {
+		"date": "09/03",
+		"text": "<span>中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
+	}, {
+		"date": "09/10",
+		"text": "<span>教师节</span>，在学校要给老师问声好呀"
+	}, {
+		"date": "10/01",
+		"text": "<span>国庆节</span>到了，为祖国母亲庆生！"
+	}, {
+		"date": "11/05-11/12",
+		"text": "今年的<span>双十一</span>"
+	}, {
+		"date": "12/20-12/31",
+		"text": "这几天是<span>圣诞节</span>"
+	}]
+}

@@ -1,0 +1,635 @@
+.hd-menu-pc,#rollModal___BV_modal_outer_{z-index:99999999999999999999 !important;}.hd-menu-mobile{z-index:99999999999999999999;}
+.foot_btn_group,.bootom_div.justify-content-center{
+	position: relative;
+	z-index: 999999998 !important;
+}
+#rewardModal___BV_modal_outer_,.vl-notify.vl-notify-alert{
+	z-index: 99999999999999999999 !important;
+}
+.glyphicon{
+	width: fit-content;
+}
+#fatie{
+	margin-left: 8px !important;
+} 
+.label {
+    border: 1px solid #000;
+  }
+.btn-group-justified {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+}
+.btn-group-justified > .btn,
+.btn-group-justified > .btn-group {
+  display: table-cell;
+  float: none;
+  width: 1%;
+}
+.btn-group-justified > .btn-group .btn {
+  width: 100%;
+}
+.btn-group-justified > .btn-group .dropdown-menu {
+  left: auto;
+}
+[data-toggle="buttons"] > .btn input[type="radio"],
+[data-toggle="buttons"] > .btn-group > .btn input[type="radio"],
+[data-toggle="buttons"] > .btn input[type="checkbox"],
+[data-toggle="buttons"] > .btn-group > .btn input[type="checkbox"] {
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #fff;
+  background-color: #286090;
+  border-color: #122b40;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #286090;
+  border-color: #204d74;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #286090;
+  border-color: #204d74;
+}
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  color: #fff;
+  background-color: #204d74;
+  border-color: #122b40;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  background-image: none;
+}
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus {
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.btn:hover,
+.btn:focus,
+.btn.focus {
+  color: #333;
+  text-decoration: none;
+}
+input[type="file"]:focus,
+input[type="radio"]:focus,
+input[type="checkbox"]:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.btn:hover,
+.btn:focus,
+.btn.focus {
+  color: #333;
+  text-decoration: none;
+}
+.btn:active,
+.btn.active {
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+          box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary{
+	background-color: #286090 !important;
+	border-color: #204d74 !important;
+}
+.input-group {
+  position: relative;
+  display: table;
+  border-collapse: separate;
+}
+.input-group-addon:not(:first-child):not(:last-child),
+.input-group-btn:not(:first-child):not(:last-child),
+.input-group .form-control:not(:first-child):not(:last-child) {
+  border-radius: 0;
+}
+.input-group-addon,
+.input-group-btn {
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.input-group-addon {
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1;
+  color: #555;
+  text-align: center;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}  
+.input-group-addon,
+  .navbar-form .input-group .input-group-btn,
+  .navbar-form .input-group .form-control {
+    width: auto;
+  }  
+.input-group .form-control, .input-group-addon, .input-group-btn{
+	display: table-cell;
+}
+
+
+
+
+
+#replybtt{
+	position: relative;
+	z-index: 10000;
+}
+
+.yeLive {
+    user-select: none;
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+    width: 20%;
+    height: auto;
+    z-index: 9000;
+    font-size: 0;
+    transition: all .3s ease-in-out;
+}
+.flavr-container{
+	z-index: 999999999 !important;
+}
+#live2d {
+    position: relative;
+    width:100%;
+    height:auto;
+}
+
+.ye_sayings.live2d {
+    opacity: 0;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 7px;
+    bottom: 100%;
+    left: -10px;
+    text-align: center;
+    border: 1px solid rgba(224, 186, 140, 0.62);
+    border-radius: 12px;
+    background-color: rgba(236, 217, 188, 0.5);
+    box-shadow: 0 3px 15px 2px rgba(191, 158, 118, 0.2);
+    font-size: 13px;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: absolute;
+    animation-delay: 5s;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-name: shake;
+    animation-timing-function: ease-in-out;
+}
+.yeLive.fangda{
+	height: 90%;
+	width: auto;
+}
+.yeLive.fangda #live2d{
+	height:100%;
+	width:auto;
+}
+.yeLive.fangda #chatYeName,.yeLive.fangda #chatYeStory,.yeLive.fangda #chatYeRoll,.yeLive.fangda #chatYeGift,.yeLive.fangda #chatYeGame,.yeLive.fangda #chatYeMore,.yeLive.fangda #chatYe{left:0px;}
+
+/* 聊天 */
+#chatYeName::after,#chatYeStory::after,#chatYeRoll::after,#chatYeGift::after,#chatYeGame::after,#chatYeMore::after,#chatYe::after {
+	content: "";
+	position: absolute;
+	top:-10px;
+	left: -10px;
+	right: -10px;
+	bottom: -10px;
+}
+#chatYeName {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 200px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYeStory {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 170px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYeRoll {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 140px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYeGift {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 110px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYeGame {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right:20px;
+    bottom: 80px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYe {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 50px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYeMore {
+    position: fixed;
+    color: rgba(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 20px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+.yeLive:hover #chatYe {
+    opacity: 1;
+}
+.yeLive:hover #chatYeName {
+    opacity: 1;
+}
+.yeLive:hover #chatYeStory {
+    opacity: 1;
+}
+.yeLive:hover #chatYeRoll {
+    opacity: 1;
+}
+.yeLive:hover #chatYeGift {
+    opacity: 1;
+}
+.yeLive:hover #chatYeGame {
+    opacity: 1;
+}
+.yeLive:hover #chatYeMore {
+    opacity: 1;
+}
+#yechatdiv {
+    display: block;
+    position: fixed;
+    z-index: 9999999999;
+    right: 220px;
+    bottom: 100px;
+}
+
+#yechatinput{
+	border:0.5px ridge;
+  border-color:rgba(224, 186, 140, 0.9);
+            border-radius: 50px 0 0 50px;
+            height: 25px;
+        }
+#yechatsubmit{
+            border-radius: 0 50px 50px 0;
+            height: 25px;
+  outline:none;
+  background-color:	#DCB268;
+    color:white;
+        }
+#replyTopicBox > div.btn_group > .main,#replyTopicBox{
+	position: relative;
+	z-index: 10000;
+}
+@media (max-width: 767px) {
+	#chatYeName,#chatYeStory,#chatYeRoll,#chatYeGift,#chatYeGame,#chatYeMore,#chatYe {
+	right:50%;
+}
+	.yeLive {
+    position: fixed;
+    right:0px;
+    bottom: 0;
+    width: 50%;
+    height: auto;
+    z-index: 9000;
+    font-size: 0;
+    transition: all .3s ease-in-out;
+}
+    #yechatinput{
+	max-width: 45%;
+    }
+    #yechatdiv {
+    /*width:45%;*/
+    	left:0px;
+    bottom: 50px;
+}
+.yeLive.fangda{
+	width:100%;
+	height: auto;
+}
+.yeLive.fangda #live2d{
+	width:100%;
+	height: auto;
+}
+.fangda .ye_sayings.live2d {
+    width:100%;
+    height: fit-content;
+    margin: auto;
+    left:0px;
+    padding: 7px;
+    bottom: 100%;
+    overflow: hidden;
+}
+}
+
+@keyframes shake {
+    2% {
+        transform: translate(0.5px, -1.5px) rotate(-0.5deg);
+    }
+
+    4% {
+        transform: translate(0.5px, 1.5px) rotate(1.5deg);
+    }
+
+    6% {
+        transform: translate(1.5px, 1.5px) rotate(1.5deg);
+    }
+
+    8% {
+        transform: translate(2.5px, 1.5px) rotate(0.5deg);
+    }
+
+    10% {
+        transform: translate(0.5px, 2.5px) rotate(0.5deg);
+    }
+
+    12% {
+        transform: translate(1.5px, 1.5px) rotate(0.5deg);
+    }
+
+    14% {
+        transform: translate(0.5px, 0.5px) rotate(0.5deg);
+    }
+
+    16% {
+        transform: translate(-1.5px, -0.5px) rotate(1.5deg);
+    }
+
+    18% {
+        transform: translate(0.5px, 0.5px) rotate(1.5deg);
+    }
+
+    20% {
+        transform: translate(2.5px, 2.5px) rotate(1.5deg);
+    }
+
+    22% {
+        transform: translate(0.5px, -1.5px) rotate(1.5deg);
+    }
+
+    24% {
+        transform: translate(-1.5px, 1.5px) rotate(-0.5deg);
+    }
+
+    26% {
+        transform: translate(1.5px, 0.5px) rotate(1.5deg);
+    }
+
+    28% {
+        transform: translate(-0.5px, -0.5px) rotate(-0.5deg);
+    }
+
+    30% {
+        transform: translate(1.5px, -0.5px) rotate(-0.5deg);
+    }
+
+    32% {
+        transform: translate(2.5px, -1.5px) rotate(1.5deg);
+    }
+
+    34% {
+        transform: translate(2.5px, 2.5px) rotate(-0.5deg);
+    }
+
+    36% {
+        transform: translate(0.5px, -1.5px) rotate(0.5deg);
+    }
+
+    38% {
+        transform: translate(2.5px, -0.5px) rotate(-0.5deg);
+    }
+
+    40% {
+        transform: translate(-0.5px, 2.5px) rotate(0.5deg);
+    }
+
+    42% {
+        transform: translate(-1.5px, 2.5px) rotate(0.5deg);
+    }
+
+    44% {
+        transform: translate(-1.5px, 1.5px) rotate(0.5deg);
+    }
+
+    46% {
+        transform: translate(1.5px, -0.5px) rotate(-0.5deg);
+    }
+
+    48% {
+        transform: translate(2.5px, -0.5px) rotate(0.5deg);
+    }
+
+    50% {
+        transform: translate(-1.5px, 1.5px) rotate(0.5deg);
+    }
+
+    52% {
+        transform: translate(-0.5px, 1.5px) rotate(0.5deg);
+    }
+
+    54% {
+        transform: translate(-1.5px, 1.5px) rotate(0.5deg);
+    }
+
+    56% {
+        transform: translate(0.5px, 2.5px) rotate(1.5deg);
+    }
+
+    58% {
+        transform: translate(2.5px, 2.5px) rotate(0.5deg);
+    }
+
+    60% {
+        transform: translate(2.5px, -1.5px) rotate(1.5deg);
+    }
+
+    62% {
+        transform: translate(-1.5px, 0.5px) rotate(1.5deg);
+    }
+
+    64% {
+        transform: translate(-1.5px, 1.5px) rotate(1.5deg);
+    }
+
+    66% {
+        transform: translate(0.5px, 2.5px) rotate(1.5deg);
+    }
+
+    68% {
+        transform: translate(2.5px, -1.5px) rotate(1.5deg);
+    }
+
+    70% {
+        transform: translate(2.5px, 2.5px) rotate(0.5deg);
+    }
+
+    72% {
+        transform: translate(-0.5px, -1.5px) rotate(1.5deg);
+    }
+
+    74% {
+        transform: translate(-1.5px, 2.5px) rotate(1.5deg);
+    }
+
+    76% {
+        transform: translate(-1.5px, 2.5px) rotate(1.5deg);
+    }
+
+    78% {
+        transform: translate(-1.5px, 2.5px) rotate(0.5deg);
+    }
+
+    80% {
+        transform: translate(-1.5px, 0.5px) rotate(-0.5deg);
+    }
+
+    82% {
+        transform: translate(-1.5px, 0.5px) rotate(-0.5deg);
+    }
+
+    84% {
+        transform: translate(-0.5px, 0.5px) rotate(1.5deg);
+    }
+
+    86% {
+        transform: translate(2.5px, 1.5px) rotate(0.5deg);
+    }
+
+    88% {
+        transform: translate(-1.5px, 0.5px) rotate(1.5deg);
+    }
+
+    90% {
+        transform: translate(-1.5px, -0.5px) rotate(-0.5deg);
+    }
+
+    92% {
+        transform: translate(-1.5px, -1.5px) rotate(1.5deg);
+    }
+
+    94% {
+        transform: translate(0.5px, 0.5px) rotate(-0.5deg);
+    }
+
+    96% {
+        transform: translate(2.5px, -0.5px) rotate(-0.5deg);
+    }
+
+    98% {
+        transform: translate(-1.5px, -1.5px) rotate(-0.5deg);
+    }
+
+    0%, 100% {
+        transform: translate(0, 0) rotate(0);
+    }
+}
+
+
+.form-row::-webkit-scrollbar {/*滚动条整体样式*/
+            width: 4px;     /*高宽分别对应横竖滚动条的尺寸*/
+            height: 4px;
+        }
+        .form-row::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+            border-radius: 5px;
+            -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+            background: rgba(0,0,0,0.2);
+        }
+        .form-row::-webkit-scrollbar-track {/*滚动条里面轨道*/
+            -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+            border-radius: 0;
+            background: rgba(0,0,0,0.1);
+        }
+.flavr-button{
+	color:white !important;
+}
