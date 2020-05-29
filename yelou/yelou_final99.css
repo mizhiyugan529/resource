@@ -30,3 +30,39 @@
     padding-bottom: 40% !important;}
 body{background-attachment: fixed;background-image: url(https://ftp.bmp.ovh/imgs/2019/10/4ba42c98702b2d19.jpg);background-size:100%;}
 .footer:not(.username),#app > div > nav > a, #nav-collapse > ul> li a,.hbtn.delete,.hbtn.reward,.change_title_color_btn,.collect_btn,.justify-content-center > div > a,.justify-content-center > div > span,.text-right.page_box > a,.text-right.page_box > a,.text-right.page_box > span,.text-right.page_box > a,.hd-menu-pc .scroll-btn a .icon,.foot_btn_group > div,.admin_bottom_div > a,.top_div > div.left > label{color:#b56500 !important}.po_topic_box,.reply_box{border-bottom:1px solid #b56500 !important;}.emotion_tab{background:#b5650033 !important;border:#b56500 !important;}.emotion_tab.active,.emotion_tab:hover,.main:hover,.upload_btn:hover{background:#b56500B3 !important;}.main,.upload_btn{background:#b565004D !important;}span,a,.glyphicon,.authorinfo,div.authorinfo > div > span:nth-child(1),.group_0+span,.text-success,.alert,.am-form-group,.form-group,#file{color:#b56500 !important}hr{background :#b56500 none repeat scroll 0% 0% / auto padding-box border-box;}
+.title_box.two,.container .title.two{
+    background:transparent !important;
+    text-align:center;
+    background:url("https://i.vgy.me/WvqPDI.jpg")no-repeat !important;
+    color:transparent !important;
+    height:0 !important;
+    width: 100%; !important;
+    background-size:100% auto !important;
+    padding-bottom: 27% !important;}
+.title_box.three,.container .title.three{
+    background:transparent !important;
+    text-align:center;
+    background:url("https://i.loli.net/2019/12/28/WsmIMuRrVBaYtXp.png")no-repeat !important;
+    color:transparent !important;
+    height:0 !important;
+    width: 100%; !important;
+    background-size:100% auto !important;
+    padding-bottom: 27% !important;}
+.title_box.four,.container .title.four{
+    background:transparent !important;
+    text-align:center;
+    background:url("https://i.loli.net/2019/12/28/WN7XLZYP6uC9rDQ.jpg")no-repeat !important;
+    color:transparent !important;
+    height:0 !important;
+    width: 100%; !important;
+    background-size:100% auto !important;
+    padding-bottom: 27% !important;}
+.title_box.five,.container .title.five{
+    background:transparent !important;
+    text-align:center;
+    background:url("https://i.loli.net/2019/12/28/7mh1dEqNfygtkYc.jpg")no-repeat !important;
+    color:transparent !important;
+    height:0 !important;
+    width: 100%; !important;
+    background-size:100% auto !important;
+    padding-bottom: 27% !important;}

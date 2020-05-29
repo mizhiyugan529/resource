@@ -1,6 +1,7 @@
 var titleList=[
     "",
-    "one"
+    "one",
+    "two","three","four","five"
 ]
 $(".title_box").addClass(titleList[Math.floor(Math.random() * titleList.length)])
 $(".container .title").addClass(titleList[Math.floor(Math.random() * titleList.length)])
