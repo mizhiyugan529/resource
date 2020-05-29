@@ -1,5 +1,5 @@
 var text='<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/yelou_final99.css"></link>'
-var text2='<script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/yelive2d/yeLive2d_ty.js"></script>'
+var text2='<script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/yelive2d/yeLive2d_ty99.js"></script>'
 var text3='<script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/music/music_ty.js"></script><script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/bqb/bqb_ty.js"></script>'
 var text4='<div align=center class="xiu"><div style="font-size:larger"><b>“有幸在那一天，遇到你，最了不起的你”</b></div><br>' +
     '<div style="font-size:larger">🎉0529，叶修，生日快乐！🎉</div><br>' +
