@@ -26,7 +26,7 @@ function loadExternalResource(url, type) {
 }
 var yelive2d;
 var judge12 = window.location.href;
-if(judge12.indexOf("bilibilipy")!=-1&&judge12.indexOf("https")!=-1){
+if((judge12.indexOf("bilibilipy")!=-1&&judge12.indexOf("https")!=-1)||judge12.indexOf("asrpg")!=-1){
 Promise.all([
 	loadExternalResource("https://cdn.bootcss.com/jquery/3.4.1/jquery.js","js")
 ]).then(() => {

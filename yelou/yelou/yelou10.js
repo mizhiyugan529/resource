@@ -1,7 +1,7 @@
-var text='<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/yelou10.css"></link>'
-var text2='<script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/yelive2d/yeLive2d_ty.js"></script><script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/zhuangxiu/zhuangxiu_ty.js"></script>'
+var text='<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/yelou/yelou10.css"></link>'
+var text2='<script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource@v1.0/yelou/yelive2d/yeLive2d_ty.js"></script><script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/zhuangxiu/zhuangxiu_ty.js"></script>'
 var text3='<script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/music/music_ty.js"></script><script src="https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/yelou/bqb/bqb_ty.js"></script>'
-var text4='<b><font size="4" class="xiu"><a href="https://www.nmmnm.co/board/529" target="_blank">叶修专岛神之领域 </a>♔ <a href="http://shenyeshitang529.lofter.com">深叶食堂</a><br><a href="https://www.nmmnm.co/showmsg/forumid/529/id/17917?page=1" target="_blank">①</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/21646?page=1" target="_blank">②</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/34307?page=1" target="_blank">③</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/56078?page=1" target="_blank">④</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/71221?page=1" target="_blank">⑤</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/107796?page=1" target="_blank">⑥｜</a><a href="https://www.nmmnm.co/showmsg/forumid/529/id/183135?page=1" target="_blank">⑦</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/220823?page=1" target="_blank">⑧</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/226385" target="_blank">⑧.⑤</a> ｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/298666?page=1" target="_blank">⑨</a> 号楼 </font></b>' +
+var text4='<div align="center"><b><font size="4" class="xiu"><a href="https://www.nmmnm.co/board/529" target="_blank">叶修专岛神之领域 </a>♔ <a href="http://shenyeshitang529.lofter.com">深叶食堂</a><br><a href="https://www.nmmnm.co/showmsg/forumid/529/id/17917?page=1" target="_blank">①</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/21646?page=1" target="_blank">②</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/34307?page=1" target="_blank">③</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/56078?page=1" target="_blank">④</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/71221?page=1" target="_blank">⑤</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/107796?page=1" target="_blank">⑥｜</a><a href="https://www.nmmnm.co/showmsg/forumid/529/id/183135?page=1" target="_blank">⑦</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/220823?page=1" target="_blank">⑧</a>｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/226385" target="_blank">⑧.⑤</a> ｜<a href="https://www.nmmnm.co/showmsg/forumid/529/id/298666?page=1" target="_blank">⑨</a> 号楼 </font></b></div>' +
     '<div align="center"><font size="4" class="xiu"><b><a href="http://yexiu2019.lofter.com/post/30d9f78c_1c6b1c94f" target="_blank">叶修资源整理汇总地址</a> ♔ <a href="http://mirror.yexiu.ws/forum.php" target="_blank">旧粮翻找论坛-荣耀第十区</a> ♔ <a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w401115577930597.32.36581b6akayxQ9&amp;id=551029652744&amp;rn=fc68b79787acdc12ecbdebc3827534dc&amp;abbucket=16" target="_blank">公益午餐</a></b></font></div>'+
     '<div align="center"><font size="4" class="xiu"><b><a href="http://bbs.jjwxc.net/showmsg.php?board=3&amp;id=1627917" target="_blank">闲情叶修二十九号楼</a> ♔ <a href="http://xqwh.org/viewtopic.php?f=2&amp;t=40638" target="_blank">秦王府叶神25号楼</a></b></font></div>'
 $("#sanxiaoye").prepend(text4)
@@ -10,10 +10,7 @@ $("#sanxiaoye").prepend(text+text2+text3)
 var titleList=[
     "",
     "one",
-    "two",
-    "three",
-    "four",
-    "five"
+    "two","three","four","five"
 ]
 $(".title_box").addClass(titleList[Math.floor(Math.random() * titleList.length)])
 $(".container .title").addClass(titleList[Math.floor(Math.random() * titleList.length)])
@@ -64,7 +61,7 @@ var all_ye_href_three = [
     "https://b23.tv/BV1Cx41177fM",
     "https://b23.tv/BV1qs411i7Bs",
     "http://www.missevan.com/mdrama/drama/22523?pay_type=2",
-    "http://www.missevan.com/mdrama/drama/22523?pay_type=2"
+    "http://love.yeallye.com"
 ];
 
 function YeRandomHref1() {
