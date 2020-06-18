@@ -46,7 +46,7 @@ loadExternalResource("https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/flavr/j
 Promise.all([
 	loadExternalResource(home_Path + "live2d/css/live2d0.css", "css"),
 	loadExternalResource(home_Path + "live2d/js/live2d.js", "js"),
-	loadExternalResource(home_Path + "live2d/js/message2.js", "js")
+	loadExternalResource(home_Path + "live2d/js/message0.js", "js")
 ]).then(() => {
 	var cloth=localStorage.yecloth;
 	if (cloth=="2"){
