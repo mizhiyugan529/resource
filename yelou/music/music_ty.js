@@ -21,7 +21,7 @@ function loadExternalResource(url, type) {
 }
 var judge12 = window.location.href;
 //2.0
-if(judge12.indexOf("bilibilipy")!=-1&&judge12.indexOf("https")!=-1){
+if((judge12.indexOf("bilibilipy")!=-1&&judge12.indexOf("https")!=-1)||judge12.indexOf("asrpg")!=-1){
     Promise.all([
         loadExternalResource('https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js','js')
     ]).then(() => {

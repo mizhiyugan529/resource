@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yelou/music/music_ty.js" beforeDir="false" afterPath="$PROJECT_DIR$/yelou/music/music_ty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yelou/yelou/yelou10.js" beforeDir="false" afterPath="$PROJECT_DIR$/yelou/yelou/yelou10.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
       <updated>1590629628409</updated>
       <workItem from="1590629631894" duration="18942000" />
       <workItem from="1590757521606" duration="1338000" />
-      <workItem from="1592480903068" duration="2304000" />
+      <workItem from="1592480903068" duration="2932000" />
     </task>
     <servers />
   </component>

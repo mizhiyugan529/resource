@@ -1,7 +1,7 @@
 
 $("body").prepend('<div class="yeLive"><div class="ye_sayings live2d" style="opacity:0"></div><canvas id="live2d" width="800" height="900" class="live2d"></canvas><span class="glyphicon glyphicon-comment" id=chatYe></span><span class="glyphicon glyphicon-user" id=chatYeName></span><span class="glyphicon glyphicon-leaf" id=chatYeStory></span><span class="glyphicon glyphicon-registration-mark" id=chatYeRoll></span><span class="glyphicon glyphicon-gift" id=chatYeGift></span></span><span class="glyphicon glyphicon-tower" id=chatYeGame></span></span><span class="glyphicon glyphicon-th" id=chatYeMore></span></div><div id=yechatdiv style="display: none;"><input id=yechatinput autocomplete="off"><button id=yechatsubmit>发送</button></div>')
 const message_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/live2d/message.json"; 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource@v1.1/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {

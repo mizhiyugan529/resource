@@ -1,11 +1,14 @@
+.bg-info,.form-group{
+    position: relative;
+    z-index: 999999998 !important;
+}.modal.fade.in{
+     z-index: 999999998 !important;
+ }
 #replybtt{
-	position: relative;
-	z-index: 10000;
+    position: relative;
+    z-index: 10000;
 }
-.bg-info,.form-group,.modal.fade.in{
-	position: relative;
-	z-index: 999999998 !important;
-}
+
 .hd-menu-pc,#rollModal___BV_modal_outer_{z-index:999999998 !important;}.hd-menu-mobile{z-index:999999998;}
 .yeLive {
     user-select: none;
