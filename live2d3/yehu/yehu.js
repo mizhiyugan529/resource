@@ -1,5 +1,5 @@
 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.7/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.8/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -29,7 +29,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("https") != -1) || j
         loadExternalResource("https://cdn.bootcss.com/jquery/3.4.1/jquery.js", "js")
     ]).then(() => {
         Promise.all([
-            loadExternalResource("https://unpkg.com/core-js-bundle@3.6.1/minified.js", "js"),
+            // loadExternalResource("https://unpkg.com/core-js-bundle@3.6.1/minified.js", "js"),
             loadExternalResource(home_Path + "Core/live2dcubismcore.js", "js"),
             loadExternalResource(home_Path + "Samples/TypeScript/Demo/dist/bundle.js", "js"),
         ]).then(() => {
@@ -39,7 +39,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("https") != -1) || j
 } else {
 // 加载 css js
     Promise.all([
-        loadExternalResource("https://unpkg.com/core-js-bundle@3.6.1/minified.js", "js"),
+        // loadExternalResource("https://unpkg.com/core-js-bundle@3.6.1/minified.js", "js"),
         loadExternalResource(home_Path + "Core/live2dcubismcore.js", "js"),
         loadExternalResource(home_Path + "Samples/TypeScript/Demo/dist/bundle.js", "js"),
     ]).then(() => {
