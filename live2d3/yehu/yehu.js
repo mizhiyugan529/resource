@@ -1,4 +1,4 @@
-$("body").prepend('<div id="live2ddiv" style="position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:200px;"><canvas id="live2d" width="200" height="200" class="live2d" style="pointer-events: none;"></canvas></div>')
+
 const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3/";
 
 // 封装异步加载资源的方法
@@ -49,7 +49,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("https") != -1) || j
 
 
 function allthescript() {
-
+    $("body").prepend('<div id="live2ddiv" style="position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:200px;"><canvas id="live2d" width="200" height="200" class="live2d" style="pointer-events: none;"></canvas></div>')
 
     var div2 = document.getElementById("live2ddiv");
     var xydic = localStorage.getItem("yeyesetting")
@@ -63,7 +63,7 @@ function allthescript() {
         div2.style.top = y + "px";
     }
 
-    var resourcesPath = home_Path+"/Samples/TypeScript/Demo"; // 指定资源文件（模型）保存的路径
+    var resourcesPath = home_Path+"Samples/TypeScript/Demo"; // 指定资源文件（模型）保存的路径
     var backImageName = ''; // 指定背景图片
     var modelDir = ['yehu']; // 指定需要加载的模型
     initDefine(resourcesPath, backImageName, modelDir); // 初始化模型
