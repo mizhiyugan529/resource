@@ -1,5 +1,5 @@
 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.6/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.7/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
