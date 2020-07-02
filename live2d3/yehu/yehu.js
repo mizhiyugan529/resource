@@ -1,5 +1,5 @@
 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.2/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.4/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -68,7 +68,7 @@ function allthescript() {
     }
 
     var resourcesPath = home_Path+"Samples/TypeScript/Demo/"; // 指定资源文件（模型）保存的路径
-    var backImageName = ''; // 指定背景图片
+    var backImageName = 'bg/touming.png'; // 指定背景图片
     var modelDir = ['yehu']; // 指定需要加载的模型
     initDefine(resourcesPath, backImageName, modelDir); // 初始化模型
 
