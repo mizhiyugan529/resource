@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="" />
+    <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yehu/yehu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -25,25 +30,47 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590731102881" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="D:\JetBrains\IntelliJ IDEA 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\resource\live2d3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\resource\live2d3" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/timeline" />
       <recent name="$PROJECT_DIR$/texiao" />
       <recent name="$PROJECT_DIR$/yelou" />
-      <recent name="$PROJECT_DIR$/shimeji" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/resource/live2d3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,49 +84,41 @@
       <updated>1590629628409</updated>
       <workItem from="1590629631894" duration="18942000" />
       <workItem from="1590757521606" duration="1338000" />
-      <workItem from="1592480903068" duration="3251000" />
+      <workItem from="1592480903068" duration="4421000" />
+      <workItem from="1593653356293" duration="4129000" />
+      <workItem from="1593657522425" duration="4000" />
+      <workItem from="1593683468356" duration="562000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="681" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593653841995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1593653841995" />
+    <state x="484" y="0" key="SettingsEditor" timestamp="1593656898160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593656898160" />
+    <state x="619" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1593657522379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593657522379" />
+    <state x="348" y="174" key="new project wizard" timestamp="1593657015045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="174" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593657015045" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="resource" type="b2602c69:ProjectViewProjectNode" />
+        <item name="resource" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
