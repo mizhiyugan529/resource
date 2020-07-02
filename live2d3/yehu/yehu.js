@@ -1,5 +1,5 @@
 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.1/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -49,7 +49,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("https") != -1) || j
 
 
 function allthescript() {
-    $("body").prepend('<div id="live2ddiv" style="position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:200px;"><canvas id="live2d" width="200" height="200" class="live2d" style="pointer-events: none;"></canvas></div>')
+    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:200px;"><canvas id="live2d" width="200" height="200" class="live2d" style="pointer-events: none;"></canvas></div>')
 
     var div2 = document.getElementById("live2ddiv");
     var xydic = localStorage.getItem("yeyesetting")
@@ -59,6 +59,10 @@ function allthescript() {
 
         var x = xydic["x"]
         var y = xydic["y"]
+        x = x > 0 ? x : 0
+        x = x < document.documentElement.clientWidth - div2.clientWidth ? x : document.documentElement.clientWidth - div2.clientWidth
+        y = y > 0 ? y : 0
+        y = y < document.documentElement.clientHeight - div2.clientHeight ? y : document.documentElement.clientHeight - div2.clientHeight
         div2.style.left = x + "px";
         div2.style.top = y + "px";
     }
@@ -67,6 +71,10 @@ function allthescript() {
     var backImageName = ''; // 指定背景图片
     var modelDir = ['yehu']; // 指定需要加载的模型
     initDefine(resourcesPath, backImageName, modelDir); // 初始化模型
+
+
+
+
     setTimeout(function () {
         // playLive2dMotion("ye",0,3)
         $("#live2ddiv").click(function () {
@@ -120,8 +128,8 @@ function allthescript() {
             var dic = JSON.stringify({"xydic": xydic});
             localStorage.setItem("yeyesetting", dic)
             //阻止页面的滑动默认事件
-            document.addEventListener("touchmove", function () {
-                // event.preventDefault();
+            document.addEventListener("touchmove", function (event) {
+                event.preventDefault();
             }, false);
         }
     }
