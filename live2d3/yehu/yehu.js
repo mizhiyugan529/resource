@@ -63,7 +63,7 @@ function allthescript() {
         div2.style.top = y + "px";
     }
 
-    var resourcesPath = home_Path+"Samples/TypeScript/Demo"; // 指定资源文件（模型）保存的路径
+    var resourcesPath = home_Path+"Samples/TypeScript/Demo/"; // 指定资源文件（模型）保存的路径
     var backImageName = ''; // 指定背景图片
     var modelDir = ['yehu']; // 指定需要加载的模型
     initDefine(resourcesPath, backImageName, modelDir); // 初始化模型
