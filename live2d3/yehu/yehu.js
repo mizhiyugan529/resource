@@ -1,5 +1,5 @@
 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@1.0/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.9/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -26,7 +26,7 @@ var judge12 = window.location.href;
 if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("http") != -1) || judge12.indexOf("nmmnm") != -1) {
     Promise.all([
         loadExternalResource("https://cdn.jsdelivr.net/gh/wangstong/live2dm3/live2d/js/live2dcubismcore.min.js","js"),
-        loadExternalResource("https://www.yeallye.com/live2d/yehu/bundle.js", "js")
+        loadExternalResource(home_Path+"Samples/TypeScript/Demo/dist/bundle.js", "js")
 
     ]).then(() => {
         allthescript()
@@ -37,7 +37,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("http") != -1) || ju
         loadExternalResource("https://cdn.bootcss.com/jquery/3.4.1/jquery.js", "js")
     ]).then(() => {
         Promise.all([loadExternalResource("https://cdn.jsdelivr.net/gh/wangstong/live2dm3/live2d/js/live2dcubismcore.min.js","js"),
-            loadExternalResource("https://www.yeallye.com/live2d/yehu/bundle.js", "js")
+            loadExternalResource(home_Path+"Samples/TypeScript/Demo/dist/bundle.js", "js")
 
         ]).then(() => {
             allthescript()
@@ -66,7 +66,7 @@ function allthescript() {
         div2.style.top = y + "px";
     }
 
-    var resourcesPath = "https://www.yeallye.com/live2d/yehu/Demo/"; // 指定资源文件（模型）保存的路径
+    var resourcesPath = home_Path+"Samples/TypeScript/Demo/"; // 指定资源文件（模型）保存的路径
     var backImageName = 'bg/touming.png'; // 指定背景图片
     // var backImageName = ''; // 指定背景图片
     var modelDir = ['yehu']; // 指定需要加载的模型

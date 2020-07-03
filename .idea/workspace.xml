@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu.js" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/yehu/yehu.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +90,7 @@
       <workItem from="1593694754563" duration="2291000" />
       <workItem from="1593699790148" duration="7929000" />
       <workItem from="1593737172646" duration="1000" />
+      <workItem from="1593750824061" duration="778000" />
     </task>
     <servers />
   </component>
