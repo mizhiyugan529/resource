@@ -1,5 +1,5 @@
 
-const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@0.8/";
+const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/live2d3@1.0/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -22,34 +22,33 @@ function loadExternalResource(url, type) {
     });
 }
 
-var yelive2d;
 var judge12 = window.location.href;
-if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("https") != -1) || judge12.indexOf("asrpg") != -1) {
+if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("http") != -1) || judge12.indexOf("nmmnm") != -1) {
     Promise.all([
-        loadExternalResource("https://cdn.bootcss.com/jquery/3.4.1/jquery.js", "js")
+        loadExternalResource("https://cdn.jsdelivr.net/gh/wangstong/live2dm3/live2d/js/live2dcubismcore.min.js","js"),
+        loadExternalResource("https://www.yeallye.com/live2d/yehu/bundle.js", "js")
+
     ]).then(() => {
-        Promise.all([
-            // loadExternalResource("https://unpkg.com/core-js-bundle@3.6.1/minified.js", "js"),
-            loadExternalResource(home_Path + "Core/live2dcubismcore.js", "js"),
-            loadExternalResource(home_Path + "Samples/TypeScript/Demo/dist/bundle.js", "js"),
-        ]).then(() => {
-            allthescript()
-        });
+        allthescript()
     });
 } else {
 // 加载 css js
     Promise.all([
-        // loadExternalResource("https://unpkg.com/core-js-bundle@3.6.1/minified.js", "js"),
-        loadExternalResource(home_Path + "Core/live2dcubismcore.js", "js"),
-        loadExternalResource(home_Path + "Samples/TypeScript/Demo/dist/bundle.js", "js"),
+        loadExternalResource("https://cdn.bootcss.com/jquery/3.4.1/jquery.js", "js")
     ]).then(() => {
-        allthescript()
+        Promise.all([loadExternalResource("https://cdn.jsdelivr.net/gh/wangstong/live2dm3/live2d/js/live2dcubismcore.min.js","js"),
+            loadExternalResource("https://www.yeallye.com/live2d/yehu/bundle.js", "js")
+
+        ]).then(() => {
+            allthescript()
+        });
     });
+
 }
 
 
 function allthescript() {
-    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:200px;"><canvas id="live2d" width="200" height="200" class="live2d" style="pointer-events: none;"></canvas></div>')
+    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:100px;height:100px;"><canvas id="live2d" width="300" height="300" class="live2d" style="width:100px;height:100px;pointer-events: none;"></canvas></div>')
 
     var div2 = document.getElementById("live2ddiv");
     var xydic = localStorage.getItem("yeyesetting")
@@ -67,10 +66,14 @@ function allthescript() {
         div2.style.top = y + "px";
     }
 
-    var resourcesPath = home_Path+"Samples/TypeScript/Demo/"; // 指定资源文件（模型）保存的路径
+    var resourcesPath = "https://www.yeallye.com/live2d/yehu/Demo/"; // 指定资源文件（模型）保存的路径
     var backImageName = 'bg/touming.png'; // 指定背景图片
+    // var backImageName = ''; // 指定背景图片
     var modelDir = ['yehu']; // 指定需要加载的模型
     initDefine(resourcesPath, backImageName, modelDir); // 初始化模型
+    console.log("设置模型路径")
+    initModel();
+    console.log("初始化模型")
 
 
 
