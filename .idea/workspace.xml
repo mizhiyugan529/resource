@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/bg/touming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.1024/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.cdi3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.cmo3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.moc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.model3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.physics3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_idle.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m01.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m02.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m03.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m04.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m05.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m06.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m07.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m08.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m09.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m10.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m11.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m12.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m13.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m14.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m15.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m16.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m17.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m18.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m19.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m20.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m21.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m22.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m23.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m24.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m25.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/motions/haru_g_m26.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/touming.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu.js" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/yehu/yehu.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +72,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590731102881" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -49,15 +88,18 @@
     <property name="ts.external.directory.path" value="D:\JetBrains\IntelliJ IDEA 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEAProject\resource\live2d3" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAProject\resource\live2d3" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/timeline" />
       <recent name="$PROJECT_DIR$/texiao" />
       <recent name="$PROJECT_DIR$/yelou" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\resource\live2d3\junmoxiao\junmoxiao" />
+      <recent name="D:\IDEAProject\resource\live2d3\junmoxiao\bg" />
+      <recent name="D:\IDEAProject\resource\live2d3" />
+      <recent name="D:\IDEAProject\resource\live2d3\junmoxiao" />
     </key>
   </component>
   <component name="RunManager">
@@ -91,6 +133,9 @@
       <workItem from="1593737172646" duration="1000" />
       <workItem from="1593750824061" duration="2165000" />
       <workItem from="1593786227486" duration="2045000" />
+      <workItem from="1593824481906" duration="32000" />
+      <workItem from="1593835698876" duration="159000" />
+      <workItem from="1593866412794" duration="767000" />
     </task>
     <servers />
   </component>
@@ -110,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593656898160" />
-    <state x="619" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1593699790565">
+    <state x="619" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1593835837701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="619" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593699790565" />
+    <state x="619" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593835837701" />
     <state x="601" y="141" width="642" height="534" key="find.popup" timestamp="1593751748187">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
