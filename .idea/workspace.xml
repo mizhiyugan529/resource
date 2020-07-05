@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu.js" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/yehu/yehu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu/yehu.moc3" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/yehu/yehu/yehu.moc3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590731102881" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/yehu/yehu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/yehu/yehu/motions" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -50,11 +52,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\resource\live2d3\yehu\yehu\motions" />
+      <recent name="D:\IDEAProject\resource\live2d3\yehu\yehu" />
       <recent name="D:\IDEAProject\resource\live2d3\yehu" />
       <recent name="D:\IDEAProject\resource\live2d3\junmoxiao\junmoxiao" />
       <recent name="D:\IDEAProject\resource\live2d3\junmoxiao\bg" />
-      <recent name="D:\IDEAProject\resource\live2d3" />
-      <recent name="D:\IDEAProject\resource\live2d3\junmoxiao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAProject\resource\live2d3\yehu\yehu\motions" />
@@ -98,7 +100,7 @@
       <workItem from="1593824481906" duration="32000" />
       <workItem from="1593835698876" duration="159000" />
       <workItem from="1593866412794" duration="2341000" />
-      <workItem from="1593931442413" duration="2238000" />
+      <workItem from="1593931442413" duration="3345000" />
     </task>
     <servers />
   </component>

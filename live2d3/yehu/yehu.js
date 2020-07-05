@@ -48,7 +48,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("http") != -1) || ju
 
 
 function allthescript() {
-    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:100px;height:100px;"><canvas id="live2d" width="300" height="300" class="live2d" style="width:100px;height:100px;pointer-events: none;"></canvas></div>')
+    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:150px;height:150px;"><canvas id="live2d" width="300" height="300" class="live2d" style="width:150px;height:150px;pointer-events: none;"></canvas></div>')
 
     var div2 = document.getElementById("live2ddiv");
     var xydic = localStorage.getItem("yeyesetting")
