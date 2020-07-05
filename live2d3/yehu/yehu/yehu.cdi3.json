@@ -145,6 +145,16 @@
 			"Id": "ParamHairBack",
 			"GroupId": "",
 			"Name": "摇动　后发"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "weiba1"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "weiba2"
 		}
 	],
 	"ParameterGroups": [],
