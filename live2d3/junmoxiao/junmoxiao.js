@@ -1,4 +1,4 @@
-
+// const home_Path = "../junmoxiao";
 const home_Path = "https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/live2d3/junmoxiao";
 
 // 封装异步加载资源的方法
@@ -48,7 +48,7 @@ if ((judge12.indexOf("bilibilipy") != -1 && judge12.indexOf("http") != -1) || ju
 
 
 function allthescript() {
-    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:300px;"><canvas id="live2d" width="400" height="600" class="live2d" style="width:200px;height:300px;pointer-events: none;"></canvas></div>')
+    $("body").prepend('<div id="live2ddiv" style="-khtml-user-select: none; user-select: none;-moz-user-select:none;touch-action: none;position: fixed; opacity: 1; left: 0px; bottom: 0px; z-index: 99999; width:200px;height:200px;"><canvas id="live2d" width="400" height="400" class="live2d" style="width:200px;height:200px;pointer-events: none;"></canvas></div>')
 
     var div2 = document.getElementById("live2ddiv");
     var xydic = localStorage.getItem("yeyesetting")
