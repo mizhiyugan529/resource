@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/live2d3/ye6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/ye6/ye6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/live2d3/ye5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/ye5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +107,7 @@
       <workItem from="1594476693860" duration="2596000" />
       <workItem from="1594729916624" duration="659000" />
       <workItem from="1595117869849" duration="12616000" />
-      <workItem from="1595419646839" duration="2085000" />
+      <workItem from="1595419646839" duration="3424000" />
     </task>
     <servers />
   </component>
