@@ -127,7 +127,7 @@ function allthescript() {
 
     function move() {
         if (flag) {
-            showMessage("你要带我去哪呀")
+            showMessage(["你要带我去哪呀","低调行事。"])
             var touch;
             if (event.touches) {
                 touch = event.touches[0];
