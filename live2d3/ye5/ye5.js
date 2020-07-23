@@ -19,6 +19,6 @@ function loadExternalResource(url, type) {
         }
     });
 }
-var l2dlist=["yelong","yehu","junmoxiao","yetu","yemiao1"]
+var l2dlist=["yelong","yehu","junmoxiao","yetu","yemiao1","yeshu"]
 var l2dselect=l2dlist[Math.floor(Math.random()*l2dlist.length)]
 loadExternalResource("https://cdn.jsdelivr.net/gh/mizhiyugan529/resource/live2d3/"+l2dselect+"/"+l2dselect+".js","js")
