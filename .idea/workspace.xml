@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao_duihua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/junmoxiao/live2d_duihua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yehu/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yehu/live2d_duihua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yehu/yehu_duihua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yelong/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yelong/live2d_duihua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yelong/yelong_duihua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yemiao1/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yemiao1/live2d_duihua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yemiao1/yemiao1_duihua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yeshu/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yeshu/live2d_duihua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yeshu/yeshu_duihua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yetu/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yetu/live2d_duihua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/yetu/yetu_duihua.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/ye6/ye6_duihua.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/live2d3/ye6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/ye6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live2d3/yelong/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/yelong/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590731102881" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/yetu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/ye6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -77,11 +58,11 @@
       <recent name="D:\IDEAProject\resource\live2d3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\resource\live2d3\ye6" />
       <recent name="D:\IDEAProject\resource\live2d3\yetu" />
       <recent name="D:\IDEAProject\resource\live2d3\yeshu" />
       <recent name="D:\IDEAProject\resource\live2d3\yemiao1" />
       <recent name="D:\IDEAProject\resource\live2d3\yehu" />
-      <recent name="D:\IDEAProject\resource\live2d3\junmoxiao" />
     </key>
   </component>
   <component name="RunManager">
@@ -124,7 +105,7 @@
       <workItem from="1594476693860" duration="2596000" />
       <workItem from="1594729916624" duration="659000" />
       <workItem from="1595117869849" duration="12616000" />
-      <workItem from="1595419646839" duration="10101000" />
+      <workItem from="1595419646839" duration="10466000" />
     </task>
     <servers />
   </component>
