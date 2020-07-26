@@ -120,8 +120,7 @@ function allthescript() {
 
     function move() {
         if (flag) {
-            var list_move=["十二点钟方向头朝下偏右二十度往下跳最容易抓到猎物，你还得多练","不会成精不会变成美女报恩是公的，谢谢帮忙我先走了
-                "]
+            var list_move=["十二点钟方向头朝下偏右二十度往下跳最容易抓到猎物，你还得多练","不会成精不会变成美女报恩是公的，谢谢帮忙我先走了"]
             if (now >= 21 || now <= 5){
                 list_move.push("很晚了，要带我去睡了吗")
             }
