@@ -84,13 +84,11 @@ function allthescript() {
         // playLive2dMotion("ye",0,3)
         $("#live2ddiv").click(function () {
                 playLive2dMotion("ye", 0, 3);
-            // const list_click=["兵法有云：敌力不露，阴谋深沉，未可轻进，应遍探其锋。佯攻打草，引蛇出洞，懂不懂？","别闹","这儿可不能乱碰","找我有事啊？","你怎么还来劲了……","别闹......"]
+            const list_click=["过敏人群谨慎摸尾巴，我掉毛","吃烤鱼吗？那太好了，你先帮忙钓条鱼上来"]
             if (now >= 21 || now <= 5){
-                const list_click=[]
                 list_click.push("过会儿就去睡，你也别熬太晚了")
-                showMessage(list_click)
             }
-
+            showMessage(list_click)
             }
         );
     }, 1000)
@@ -122,13 +120,12 @@ function allthescript() {
 
     function move() {
         if (flag) {
-            // var list_move=["哎…别晃别晃，有点儿晕","低调行事。","咱们这是要去哪？","再追可就不让了啊"]
+            var list_move=["十二点钟方向头朝下偏右二十度往下跳最容易抓到猎物，你还得多练","不会成精不会变成美女报恩是公的，谢谢帮忙我先走了
+                "]
             if (now >= 21 || now <= 5){
-                var list_move=[]
                 list_move.push("很晚了，要带我去睡了吗")
-                showMessage(list_move)
             }
-
+            showMessage(list_move)
             var touch;
             if (event.touches) {
                 touch = event.touches[0];
