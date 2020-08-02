@@ -2,12 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/bg/touming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/chuier.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/erduo.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_idle.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m01.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m02.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m03.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m04.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m06.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m07.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m09.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m10.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m11.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m13.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m14.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m15.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m17.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m19.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m20.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m21.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m22.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m23.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m24.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m25.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/motions/haru_g_m26.motion3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.1024/texture_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.cdi3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.moc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.model3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.physics3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao3.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/connecting.m4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/dengworongyao.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/qianqianquege.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/zheyiluzoulai.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yelou/yelou/yelou10.css" beforeDir="false" afterPath="$PROJECT_DIR$/yelou/yelou/yelou10.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +68,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590731102881" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/music" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/yemiao2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -54,19 +84,19 @@
     <property name="ts.external.directory.path" value="D:\JetBrains\IntelliJ IDEA 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEAProject\resource\music" />
-      <recent name="D:\IDEAProject\resource\live2d3\ye6" />
-      <recent name="D:\IDEAProject\resource\live2d3\yetu" />
-      <recent name="D:\IDEAProject\resource\live2d3\yeshu" />
-      <recent name="D:\IDEAProject\resource\live2d3\yemiao1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAProject\resource\music" />
       <recent name="D:\IDEAProject\resource\live2d3\yelong" />
       <recent name="D:\IDEAProject\resource\live2d3\yeshu" />
       <recent name="D:\IDEAProject\resource\live2d3\yetu\yetu" />
       <recent name="D:\IDEAProject\resource\live2d3\yehu\yehu\motions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\resource\live2d3\yemiao2" />
+      <recent name="D:\IDEAProject\resource\music" />
+      <recent name="D:\IDEAProject\resource\live2d3\ye6" />
+      <recent name="D:\IDEAProject\resource\live2d3\yetu" />
+      <recent name="D:\IDEAProject\resource\live2d3\yeshu" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,7 +141,9 @@
       <workItem from="1595117869849" duration="12616000" />
       <workItem from="1595419646839" duration="11286000" />
       <workItem from="1595756044517" duration="9062000" />
-      <workItem from="1595942981467" duration="634000" />
+      <workItem from="1595942981467" duration="1575000" />
+      <workItem from="1596004072648" duration="1266000" />
+      <workItem from="1596336177547" duration="841000" />
     </task>
     <servers />
   </component>
@@ -143,14 +175,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593656898160" />
-    <state x="619" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1595942981485">
+    <state x="619" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1596336253788">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="619" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595942981485" />
-    <state x="601" y="141" width="642" height="534" key="find.popup" timestamp="1595851216195">
+    <state x="619" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596336253788" />
+    <state x="601" y="141" width="642" height="534" key="find.popup" timestamp="1596336618005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="601" y="141" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1595851216195" />
+    <state x="601" y="141" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596336618005" />
     <state x="348" y="174" key="new project wizard" timestamp="1593657015045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
