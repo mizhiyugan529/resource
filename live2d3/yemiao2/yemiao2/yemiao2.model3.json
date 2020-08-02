@@ -8,7 +8,7 @@
 		"Physics": "yemiao2.physics3.json",
 		"DisplayInfo": "yemiao2.cdi3.json",
 		"Motions": {
-			"": [
+			"Idle": [
 				{
 					"File": "motions/haru_g_idle.motion3.json"
 				},
