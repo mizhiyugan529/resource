@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5107fa37-0824-43e2-9501-ad597c1aad54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.model3.json" beforeDir="false" afterPath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.model3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yelou/bqb/bqb.js" beforeDir="false" afterPath="$PROJECT_DIR$/yelou/bqb/bqb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yelou/bqb/bqb2.js" beforeDir="false" afterPath="$PROJECT_DIR$/yelou/bqb/bqb2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +110,8 @@
       <workItem from="1595756044517" duration="9062000" />
       <workItem from="1595942981467" duration="1575000" />
       <workItem from="1596004072648" duration="1266000" />
-      <workItem from="1596336177547" duration="4099000" />
+      <workItem from="1596336177547" duration="8915000" />
+      <workItem from="1597366453911" duration="607000" />
     </task>
     <servers />
   </component>

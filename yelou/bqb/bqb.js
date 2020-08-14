@@ -84,7 +84,9 @@ $(document).ready(function () {
         "https://s2.ax1x.com/2020/02/11/1TiFaj.gif",
         "https://i.loli.net/2019/10/26/sfSDeYJVNXwohCi.jpg",
         "https://ftp.bmp.ovh/imgs/2019/10/fdfea20f565d2e45.png",
-        "https://ftp.bmp.ovh/imgs/2019/10/578796363eeafb1e.gif"
+        "https://ftp.bmp.ovh/imgs/2019/10/578796363eeafb1e.gif",
+        "https://i.loli.net/2020/08/03/C4PMvEDZrFRWAyq.gif",
+        "https://s2.ax1x.com/2020/02/17/3C7ma8.gif"
       ];
       $("#yelou").empty();
       for (var b = 0; b < imglist.length; b++) {
@@ -97,12 +99,19 @@ $(document).ready(function () {
         $("#yelou").append(biaoqing);
       }
       $("#yelou").append(
-        '<br><font id="yeclj">超链接代码</font>  <font id="yejsjbz" class="xiu">金色渐变字代码</font>  <font id="yezyb">遮影步代码</font>  <font id="yejgg">给叶楼加公告</font>  <font id="yebwz"><b>加粗</b></font> <font id="yehwz" color=red><b>加红</b></font>'
+        '<br><font id="yeclj">超链接代码</font>  <font id="yetlj">贴图代码</font>  <font id="yejsjbz" class="xiu">金色渐变字代码</font>  <font id="yezyb">遮影步代码</font>  <font id="yejgg">给叶楼加公告</font>  <font id="yebwz"><b>加粗</b></font> <font id="yehwz" color=red><b>加红</b></font>'
       );
       $("#yeclj").on("click", function() {
         $("#wenbenkuang").val(
           $("#wenbenkuang").val() +
             '<a href="链接" target="_blank">点我就看XXX</a>'
+        );
+        $(".am-tabs-bd").hide();
+      });
+      $("#yetlj").on("click", function() {
+        $("#wenbenkuang").val(
+            $("#wenbenkuang").val() +
+            '<img src="链接（后缀通常情况应为png或jpg等）" />'
         );
         $(".am-tabs-bd").hide();
       });
